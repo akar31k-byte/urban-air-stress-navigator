@@ -1,9 +1,7 @@
 streamlit
 osmnx
 networkx
-scikit-learn
-scipy
-geopandas
-shapely
-pyproj
+numpy
+pandas
 folium
+streamlit-folium
